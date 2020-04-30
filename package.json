@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "html-to-pdfmake": "^1.2.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "pdfmake": "^0.1.63",
     "trumbowyg": "^2.21.0"
   },
